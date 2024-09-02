@@ -7,6 +7,7 @@ This repository contains code and resources for an image classifier project. The
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment](#deployment)
 
 ## Project Overview
 
@@ -38,3 +39,8 @@ Once the application is running, follow these steps:
 2. Wait for the model to load and process the image.
 3. The application will display the uploaded image along with the prediction result.
 4. The prediction will indicate whether the image is most likely AI-generated or a real image.
+
+## Deployment
+The image classifier application is also deployed online. You can access it through the following link:
+
+https://huggingface.co/spaces/Bhogi/AI_IMAGE_CLASSIFIER
