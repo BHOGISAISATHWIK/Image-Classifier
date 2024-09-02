@@ -1,14 +1,3 @@
----
-title: AI Image Classifier
-emoji: 🔥
-colorFrom: purple
-colorTo: green
-sdk: streamlit
-sdk_version: 1.21.0
-app_file: app.py
-pinned: false
----
-
 # Image Classifier Project
 
 This repository contains code and resources for an image classifier project. The project is built using a machine learning model to classify images as either AI-generated or real.
