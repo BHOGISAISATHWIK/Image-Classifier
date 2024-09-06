@@ -40,6 +40,9 @@ Once the application is running, follow these steps:
 3. The application will display the uploaded image along with the prediction result.
 4. The prediction will indicate whether the image is most likely AI-generated or a real image.
 
+   ![image](https://github.com/user-attachments/assets/d7f9144f-044a-4713-a580-663b82d36688)
+
+
 ## Deployment
 The image classifier application is also deployed online. You can access it through the following link:
 
